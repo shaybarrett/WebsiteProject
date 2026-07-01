@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    
+  </head>
+
+  <body>
+    <h1>Hi</h1>
+  </body>
+
+</html>  
+
+<!-- _blank : new tab-->
+ <!-- Image into Link:
+  <a href="example-link">
+  <img src="image-link.jpg" alt="A photo of a cat.">
+</a>
+-->
+
+<!-- Fig Caption Example:
+ <figure>
+  <img src="image.jpg" alt="A description of the image">
+  <figcaption>A cute cat</figcaption>
+</figure>
+-->
